@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "36696999124",
+    "project_id": "composefirebasae",
+    "storage_bucket": "composefirebasae.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:36696999124:android:6d1090a93bc6c951a36741",
+        "android_client_info": {
+          "package_name": "com.hasc.firebasestore"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAoPyMlhsI64ejUWzpyM3ehcH7ytdPFg0A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
